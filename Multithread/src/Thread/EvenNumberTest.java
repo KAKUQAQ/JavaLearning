@@ -1,3 +1,5 @@
+package Thread;
+
 public class EvenNumberTest {
     public static void main(String[] args) {
         PrintNumber pn = new PrintNumber();
